@@ -1,5 +1,9 @@
 # PBO-UTS
 
+### Nama  : Anggana Duhita Apsari
+### Kelas : XI RPL 2
+### No    : 03
+
 ## tb_admin
 ![screenshot1](https://github.com/Angganada/PBO-UTS/blob/master/1.PNG)
 
@@ -29,7 +33,3 @@
 
 ## Button "PRINT"
 ![screenshot10](https://github.com/Angganada/PBO-UTS/blob/master/9.PNG)
-
-### Nama  : Anggana Duhita Apsari
-### Kelas : XI RPL 2
-### No    : 03
