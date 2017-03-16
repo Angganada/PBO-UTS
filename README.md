@@ -22,7 +22,13 @@
 ![screenshot7](https://github.com/Angganada/PBO-UTS/blob/master/6.PNG)
 
 ## Button "CLEAR"
-![screenshot8](https://github.com/Angganada/PBO-UTS/blob/master/7.PNG
+![screenshot8](https://github.com/Angganada/PBO-UTS/blob/master/7.PNG)
+
+## Button "DELETE"
+![screenshot9](https://github.com/Angganada/PBO-UTS/blob/master/8.PNG)
+
+## Button "PRINT"
+![screenshot10](https://github.com/Angganada/PBO-UTS/blob/master/9.PNG)
 
 ### Nama  : Anggana Duhita Apsari
 ### Kelas : XI RPL 2
